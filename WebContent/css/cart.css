@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+td.name{
+	table-layout: auto;
+}
+
+img {
+	width: 180px;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
